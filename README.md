@@ -12,6 +12,7 @@
 It is mainly used for deploying web applications.
 
 **Supported Languages**
+
 Elastic Beanstalk supports:
 
 Java
