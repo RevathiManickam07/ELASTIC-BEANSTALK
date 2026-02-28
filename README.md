@@ -10,3 +10,19 @@
     Monitoring
     Deployment
 It is mainly used for deploying web applications.
+**Supported Languages**
+Elastic Beanstalk supports:
+
+Java
+
+Python
+
+Node.js
+
+PHP
+
+.NET
+
+Ruby
+
+Docker
