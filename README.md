@@ -97,5 +97,9 @@ Load Balanced + Auto Scaling (for production)
 ![Image Alt](https://github.com/RevathiManickam07/ELASTIC-BEANSTALK/blob/c24c5b63baa13ca39a089bb8f0c7325701616b50/CREATE%20APPLICATION.PNG)
 
 **Step 2: Create Environment setup in AWS Elastic Beanstalk**
-![Image Alt](https://github.com/RevathiManickam07/ELASTIC-BEANSTALK/blob/c24c5b63baa13ca39a089bb8f0c7325701616b50/CREATE%20APPLICATION.PNG)
+![Image Alt](https://github.com/RevathiManickam07/ELASTIC-BEANSTALK/blob/b6c5337f7e1554352f24b2d72a76864df5d648fa/ENVIRONMENT%20CREATION.PNG)
+
+**Step 3:Environment created in Elastic Beanstalk**
+![Image Alt]()
+
 
