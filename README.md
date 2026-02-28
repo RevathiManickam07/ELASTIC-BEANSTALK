@@ -29,4 +29,67 @@ Ruby
 
 Docker
 
+
+
+**🌟 Key Features of Elastic Beanstalk**
+**1️⃣ Automatic Infrastructure Provisioning**
+
+It automatically creates:
+
+Amazon EC2
+
+Elastic Load Balancing
+
+Amazon RDS (Optional)
+
+Amazon CloudWatch
+
+Auto Scaling groups
+
+You don’t manually configure them.
+
+**2️⃣ Auto Scaling**
+
+Automatically increases or decreases EC2 instances based on traffic.
+
+**3️⃣ Load Balancing**
+
+Distributes incoming traffic across multiple instances.
+
+**4️⃣ Health Monitoring**
+
+Continuously monitors:
+
+Instance health
+
+Application health
+
+If instance fails → it replaces automatically.
+
+**5️⃣ Easy Deployment**
+
+You can deploy using:
+
+AWS Console
+
+AWS CLI
+
+Git
+
+CI/CD pipelines (Jenkins)
+
+**6️⃣ Rollback Support**
+
+If deployment fails → you can roll back to previous version easily.
+
+**7️⃣ Environment Management**
+
+**Two types of environments:**
+
+Single Instance (for testing)
+
+Load Balanced + Auto Scaling (for production)
+
+
+
 ![Image Alt](https://github.com/RevathiManickam07/ELASTIC-BEANSTALK/blob/c24c5b63baa13ca39a089bb8f0c7325701616b50/CREATE%20APPLICATION.PNG)
