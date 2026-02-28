@@ -103,7 +103,7 @@ Load Balanced + Auto Scaling (for production)
 ![Image Alt](https://github.com/RevathiManickam07/ELASTIC-BEANSTALK/blob/3c7f0e5b60efd78c97c1d0ec506b82b2b30385a6/ENVIRONMENT%20CREATION.PNG)
 
 **Step 4: Output of The Deployed application**
-![Image Alt]()
+![Image Alt](https://github.com/RevathiManickam07/ELASTIC-BEANSTALK/blob/dbb56749647d6ad1fbd65ae71d814a932e443101/OUTPUT%20OF%20THE%20APPLICATION.PNG)
 
 
 
