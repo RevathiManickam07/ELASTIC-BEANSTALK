@@ -100,6 +100,11 @@ Load Balanced + Auto Scaling (for production)
 ![Image Alt](https://github.com/RevathiManickam07/ELASTIC-BEANSTALK/blob/b6c5337f7e1554352f24b2d72a76864df5d648fa/ENVIRONMENT%20CREATION.PNG)
 
 **Step 3:Environment created in Elastic Beanstalk**
+![Image Alt](https://github.com/RevathiManickam07/ELASTIC-BEANSTALK/blob/3c7f0e5b60efd78c97c1d0ec506b82b2b30385a6/ENVIRONMENT%20CREATION.PNG)
+
+**Step 4: Output of The Deployed application**
 ![Image Alt]()
+
+
 
 
