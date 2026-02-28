@@ -107,7 +107,7 @@ Load Balanced + Auto Scaling (for production)
 
 **Conclusion**
 
-In conclusion, this project demonstrated how Elastic Beanstalk simplifies application deployment by automatically managing infrastructure components like EC2, load balancers, and auto scaling. It improved scalability, reliability, and reduced operational overhead.
+***In conclusion, this project demonstrated how Elastic Beanstalk simplifies application deployment by automatically managing infrastructure components like EC2, load balancers, and auto scaling. It improved scalability, reliability, and reduced operational overhead.***
 
 
 
