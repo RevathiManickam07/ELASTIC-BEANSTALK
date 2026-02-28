@@ -32,6 +32,7 @@ Docker
 
 
 **🌟 Key Features of Elastic Beanstalk**
+
 **1️⃣ Automatic Infrastructure Provisioning**
 
 It automatically creates:
@@ -91,5 +92,6 @@ Single Instance (for testing)
 Load Balanced + Auto Scaling (for production)
 
 
+**step 1: Open Aws console and create application in AWS Elastic Beanstalk**
 
 ![Image Alt](https://github.com/RevathiManickam07/ELASTIC-BEANSTALK/blob/c24c5b63baa13ca39a089bb8f0c7325701616b50/CREATE%20APPLICATION.PNG)
